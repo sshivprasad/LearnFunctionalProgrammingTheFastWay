@@ -1,0 +1,7 @@
+*/.bsp/
+*/.idea/
+*/target/
+.idea/
+.DS_STORE
+*/project/
+*/.scala-build/
